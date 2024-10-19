@@ -1,0 +1,15 @@
+2024/10/08-12:35:13.934 187c Reusing MANIFEST D:/Unreal5Folder/TwinStickRogue/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/08-12:35:13.935 187c Recovering log #4
+2024/10/08-12:35:13.935 187c Reusing old log D:/Unreal5Folder/TwinStickRogue/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/10/08-13:13:14.058 187c Level-0 table #8: started
+2024/10/08-13:13:14.063 187c Level-0 table #8: 190 bytes OK
+2024/10/08-13:13:14.065 187c Delete type=0 #4
+2024/10/08-13:13:14.066 187c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/08-13:13:14.066 187c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/10/08-13:13:14.066 187c Compacting 1@1 + 1@2 files
+2024/10/08-13:13:14.072 187c Generated table #9@1: 18 keys, 534 bytes
+2024/10/08-13:13:14.072 187c Compacted 1@1 + 1@2 files => 534 bytes
+2024/10/08-13:13:14.074 187c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/08-13:13:14.074 187c Delete type=2 #5
+2024/10/08-13:13:14.074 187c Delete type=2 #8
+2024/10/08-13:13:14.075 187c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
