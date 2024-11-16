@@ -1,6 +1,0 @@
-2024/10/08-12:34:45.950 24f8 Creating DB D:/Unreal5Folder/TwinStickRogue/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/10/08-12:34:45.959 24f8 Reusing MANIFEST D:/Unreal5Folder/TwinStickRogue/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/08-12:35:13.064 514c Level-0 table #5: started
-2024/10/08-12:35:13.075 514c Level-0 table #5: 1167 bytes OK
-2024/10/08-12:35:13.077 514c Delete type=0 #3
-2024/10/08-12:35:13.077 514c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
