@@ -1,0 +1,101 @@
+[+] Containers:
+ |- [+] Container: /Game/TopDown/Maps/GraveYardDungeon
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:04499A234D1C1FD730CB98A65AAF4DB0 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=440.000 Y=-109.495 Z=65.013), Max=(X=520.000 Y=139.495 Z=249.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1322F8DB4E477C80C4D626BA6F490944 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:216E2D4944A7837F5394DE81504E9CE0 BaseClass:/Game/TopDown/Blueprints/BP_Gargoyle.BP_Gargoyle_C NativeClass:/Script/Engine.Pawn Name:BP_Gargoyle_C_UAID_085BD682C9E9EB3002_1547527556 Label:BP_Gargoyle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=151.419 Y=-170.000 Z=25.847), Max=(X=470.000 Y=-10.000 Z=235.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2E570D2443B8DC49CCF594B1668A8CF0 BaseClass:/Game/TopDown/Procedural_Dungeon/Dungeon_Generator.Dungeon_Generator_C NativeClass:/Script/Engine.Actor Name:Dungeon_Generator_C_UAID_085BD682C9E90C2402_1948679623 Label:Dungeon_Generator SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3D5FAE7E4748D4034A26998C2A792C25 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_085BD682C9E9B22F02_1310951493 Label:WallFence_low SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10.270 Y=-161.236 Z=-5.593), Max=(X=98.118 Y=164.429 Z=211.111) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:50BC373241FE3C0CACF6F197BFC664BD BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:517E2A264E9D934F89FA9A89F461A52D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:5389A9EF4E0893EB3CB385A2540A3436 BaseClass:/Game/TopDown/Blueprints/BP_HealthSyringePIckUp.BP_HealthSyringePIckUp_C NativeClass:/Script/Engine.Actor Name:BP_HealthSyringePIckUp_C_UAID_085BD682C9E9F73002_2088281663 Label:BP_HealthSyringePIckUp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=440.034 Y=230.034 Z=-4.966), Max=(X=629.966 Y=419.966 Z=184.966) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:836B6EDD440D95FE2D310E9B8AFE491F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_085BD682C9E9553002_2127540148 Label:Pumpkin_low SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=730.487 Y=425.388 Z=22.553), Max=(X=822.830 Y=517.731 Z=86.418) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9E6398D24C2B9FEE7AB4239AF62B1874 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_085BD682C9E9553002_1602692143 Label:StepRocks_low2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=626.228 Y=291.707 Z=3.956), Max=(X=950.868 Y=646.362 Z=19.484) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AE4436C747D09574A94F768E104B4FF3 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_0 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2225.000 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B5A88D94496C1149E40845B44E097BF0 BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_085BD682C9E9C42F02_1264373624 Label:PAAmbient_Cue SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=30.000 Y=25.000 Z=910.000), Max=(X=30.000 Y=25.000 Z=910.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C44A3A3C467E30313504E5911B5A86A4 BaseClass:/Game/TopDown/Blueprints/BP_EnemyBase.BP_EnemyBase_C NativeClass:/Script/Engine.Character Name:BP_EnemyBase_C_UAID_085BD682C9E9E33002_1624254135 Label:BP_EnemyBase SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=711.000 Y=-101.000 Z=4.033), Max=(X=827.000 Y=11.000 Z=182.514) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C4F106384BC9B6ECB048F48D936D4F54 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_1 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-570.000 Y=-1800.000 Z=-110.000), Max=(X=2630.000 Y=1900.000 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- Guid:EA29422C4663DE6C06B0C1A97A699EDB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_085BD682C9E9A72002_1675416679 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=890.000 Y=1610.000 Z=0.000), Max=(X=890.000 Y=1610.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FC0AE1C3414256F021AE36BDDBE0AAE7 BaseClass: NativeClass:/Script/Engine.DecalActor Name:DecalActor_UAID_085BD682C9E93D3002_2042809923 Label:MI_Dried_Leaf_Pile_slqlugd_4K SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=668.072 Y=-660.756 Z=-84.480), Max=(X=962.257 Y=-366.571 Z=19.296) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:04499A234D1C1FD730CB98A65AAF4DB0 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=440.000 Y=-109.495 Z=65.013), Max=(X=520.000 Y=139.495 Z=249.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1322F8DB4E477C80C4D626BA6F490944 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:216E2D4944A7837F5394DE81504E9CE0 BaseClass:/Game/TopDown/Blueprints/BP_Gargoyle.BP_Gargoyle_C NativeClass:/Script/Engine.Pawn Name:BP_Gargoyle_C_UAID_085BD682C9E9EB3002_1547527556 Label:BP_Gargoyle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=151.419 Y=-170.000 Z=25.847), Max=(X=470.000 Y=-10.000 Z=235.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:2E570D2443B8DC49CCF594B1668A8CF0 BaseClass:/Game/TopDown/Procedural_Dungeon/Dungeon_Generator.Dungeon_Generator_C NativeClass:/Script/Engine.Actor Name:Dungeon_Generator_C_UAID_085BD682C9E90C2402_1948679623 Label:Dungeon_Generator SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:3D5FAE7E4748D4034A26998C2A792C25 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_085BD682C9E9B22F02_1310951493 Label:WallFence_low SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10.270 Y=-161.236 Z=-5.593), Max=(X=98.118 Y=164.429 Z=211.111) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:50BC373241FE3C0CACF6F197BFC664BD BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:517E2A264E9D934F89FA9A89F461A52D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:5389A9EF4E0893EB3CB385A2540A3436 BaseClass:/Game/TopDown/Blueprints/BP_HealthSyringePIckUp.BP_HealthSyringePIckUp_C NativeClass:/Script/Engine.Actor Name:BP_HealthSyringePIckUp_C_UAID_085BD682C9E9F73002_2088281663 Label:BP_HealthSyringePIckUp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=440.034 Y=230.034 Z=-4.966), Max=(X=629.966 Y=419.966 Z=184.966) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:836B6EDD440D95FE2D310E9B8AFE491F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_085BD682C9E9553002_2127540148 Label:Pumpkin_low SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=730.487 Y=425.388 Z=22.553), Max=(X=822.830 Y=517.731 Z=86.418) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:9E6398D24C2B9FEE7AB4239AF62B1874 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_085BD682C9E9553002_1602692143 Label:StepRocks_low2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=626.228 Y=291.707 Z=3.956), Max=(X=950.868 Y=646.362 Z=19.484) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:AE4436C747D09574A94F768E104B4FF3 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_0 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2225.000 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:B5A88D94496C1149E40845B44E097BF0 BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_085BD682C9E9C42F02_1264373624 Label:PAAmbient_Cue SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=30.000 Y=25.000 Z=910.000), Max=(X=30.000 Y=25.000 Z=910.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:C44A3A3C467E30313504E5911B5A86A4 BaseClass:/Game/TopDown/Blueprints/BP_EnemyBase.BP_EnemyBase_C NativeClass:/Script/Engine.Character Name:BP_EnemyBase_C_UAID_085BD682C9E9E33002_1624254135 Label:BP_EnemyBase SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=711.000 Y=-101.000 Z=4.033), Max=(X=827.000 Y=11.000 Z=182.514) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:C4F106384BC9B6ECB048F48D936D4F54 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_1 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-570.000 Y=-1800.000 Z=-110.000), Max=(X=2630.000 Y=1900.000 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:EA29422C4663DE6C06B0C1A97A699EDB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_085BD682C9E9A72002_1675416679 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=890.000 Y=1610.000 Z=0.000), Max=(X=890.000 Y=1610.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:FC0AE1C3414256F021AE36BDDBE0AAE7 BaseClass: NativeClass:/Script/Engine.DecalActor Name:DecalActor_UAID_085BD682C9E93D3002_2042809923 Label:MI_Dried_Leaf_Pile_slqlugd_4K SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=668.072 Y=-660.756 Z=-84.480), Max=(X=962.257 Y=-366.571 Z=19.296) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/TopDown/Maps/GraveYardDungeon
+----------------------------------------------------------------------------------------------------------------
+GraveYardDungeon - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of GraveYardDungeon Persistent Level
+ |- Always loaded Actor Count: 16 
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.AmbientSound_UAID_085BD682C9E9C42F02_1264373624
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/E/BZ/FG70ONFLFE32PJ2YMSDRJ5
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.BP_EnemyBase_C_UAID_085BD682C9E9E33002_1624254135
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/0/P8/991QPJWE1FHG58GNS7X9W9
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.BP_Gargoyle_C_UAID_085BD682C9E9EB3002_1547527556
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/A/LL/BNL895W38D6HNQ5Y9AO9PR
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.BP_HealthSyringePIckUp_C_UAID_085BD682C9E9F73002_2088281663
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/0/JC/SA4D58K143TE0E74YYWK29
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.DecalActor_UAID_085BD682C9E93D3002_2042809923
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/B/ZE/XY7DW0VR3H86GVKTOD1VIW
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.Dungeon_Generator_C_UAID_085BD682C9E90C2402_1948679623
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/F/30/LFQYAB5ZOGADNK5BKON2OV
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.NavMeshBoundsVolume_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/5/9E/4TZV8ZIF68BAUVLU2UI0ZI
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/7/AP/XG7CS52I74FDZE8INF8B2O
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.PostProcessVolume_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/2/5W/DHIL07PB9DQ8IVGS9JDMOL
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/3/E8/BZ5A1RB29SYC07V45LI5IX
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.StaticMeshActor_UAID_085BD682C9E9553002_1602692143
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/C/10/PDSF54M437NP81ODKHLBRE
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.StaticMeshActor_UAID_085BD682C9E9553002_2127540148
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/0/7W/2MCOJ2ZKCZP5TKJ452LMQI
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.StaticMeshActor_UAID_085BD682C9E9A72002_1675416679
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/F/2V/P4NNWMDZJ1LQJB31ZO4JR4
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.StaticMeshActor_UAID_085BD682C9E9B22F02_1310951493
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/0/G5/RKXYCZLE4OLSQ1SKLVKQLD
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.TextRenderActor_0
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/E/SY/WQY69IR37115N8LL4084Q6
+ |- Actor Path: /Game/TopDown/Maps/GraveYardDungeon.GraveYardDungeon:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/GraveYardDungeon/E/12/BYOB8F4EARU3UIDT944IAW
+
+----------------------------------------------------------------------------------------------------------------
+GraveYardDungeon - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
