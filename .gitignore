@@ -72,3 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TwinStickRogue/Saved/StagedBuilds/Windows/TwinStickRogue/Content/Paks/TwinStickRogue-Windows.ucas
+TwinStickRogue/Saved/Cooked/Windows/TwinStickRogue/Metadata/ShaderLibrarySource/ShaderArchive-TwinStickRogue-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
